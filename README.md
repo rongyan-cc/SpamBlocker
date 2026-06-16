@@ -18,7 +18,7 @@
 2. 登录 Typecho 后台，进入 **控制台 → 插件**
 3. 找到 **SpamBlocker**，点击 **启用**
 4. 点击 **设置**，填写拦截规则
-5. 详细图文教程见 [rongyan.cc/code/spamblocker.html](https://rongyan.cc/code/spamblocker.html)
+5. 详细图文教程见 [https://rongyan.cc/code/spamblocker.html](https://rongyan.cc/code/spamblocker.html)
 
 ## 使用方法
 
